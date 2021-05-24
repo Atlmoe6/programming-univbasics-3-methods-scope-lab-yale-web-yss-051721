@@ -9,6 +9,6 @@ def toadstool
 end
 
 def Zelda
-  link = "It's Dangerous To Go ALone! Take This."
+  link = "It's Dangerous To Go Alone! Take This."
   puts link
 end
