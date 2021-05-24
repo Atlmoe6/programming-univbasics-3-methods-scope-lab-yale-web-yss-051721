@@ -12,8 +12,8 @@ def link
   zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda
 end
-def all_phrases(mario, toadstool, link)
-  puts phrase
-  puts status
-  puts zelda
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
 end
