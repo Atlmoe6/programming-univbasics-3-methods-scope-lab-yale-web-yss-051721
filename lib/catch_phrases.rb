@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def Zelda
+def Link
   link = "It's Dangerous To Go Alone! Take This."
   puts link
 end
